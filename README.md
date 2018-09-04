@@ -1,2 +1,1 @@
 # skilltimer
-Automate tracking time.
